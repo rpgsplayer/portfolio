@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/rpgsplayer.github.io/portfolio/static/css/main.d1b05096.chunk.css",
-    "main.js": "/rpgsplayer.github.io/portfolio/static/js/main.16ef5bca.chunk.js",
-    "main.js.map": "/rpgsplayer.github.io/portfolio/static/js/main.16ef5bca.chunk.js.map",
-    "runtime-main.js": "/rpgsplayer.github.io/portfolio/static/js/runtime-main.d45ebf32.js",
-    "runtime-main.js.map": "/rpgsplayer.github.io/portfolio/static/js/runtime-main.d45ebf32.js.map",
-    "static/js/2.2f16718c.chunk.js": "/rpgsplayer.github.io/portfolio/static/js/2.2f16718c.chunk.js",
-    "static/js/2.2f16718c.chunk.js.map": "/rpgsplayer.github.io/portfolio/static/js/2.2f16718c.chunk.js.map",
-    "index.html": "/rpgsplayer.github.io/portfolio/index.html",
-    "precache-manifest.4816cc1f5b60f45049943f7d98012ab2.js": "/rpgsplayer.github.io/portfolio/precache-manifest.4816cc1f5b60f45049943f7d98012ab2.js",
-    "service-worker.js": "/rpgsplayer.github.io/portfolio/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/rpgsplayer.github.io/portfolio/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.2f16718c.chunk.js.LICENSE.txt": "/rpgsplayer.github.io/portfolio/static/js/2.2f16718c.chunk.js.LICENSE.txt"
+    "main.css": "/portfolio/static/css/main.d1b05096.chunk.css",
+    "main.js": "/portfolio/static/js/main.054aa2a4.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.054aa2a4.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.07f1ee7d.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.07f1ee7d.js.map",
+    "static/js/2.2f16718c.chunk.js": "/portfolio/static/js/2.2f16718c.chunk.js",
+    "static/js/2.2f16718c.chunk.js.map": "/portfolio/static/js/2.2f16718c.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.7fa4c4460e524273811c190efc54a16a.js": "/portfolio/precache-manifest.7fa4c4460e524273811c190efc54a16a.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/portfolio/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.2f16718c.chunk.js.LICENSE.txt": "/portfolio/static/js/2.2f16718c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d45ebf32.js",
+    "static/js/runtime-main.07f1ee7d.js",
     "static/js/2.2f16718c.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.16ef5bca.chunk.js"
+    "static/js/main.054aa2a4.chunk.js"
   ]
 }
